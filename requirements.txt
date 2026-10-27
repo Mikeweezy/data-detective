@@ -1,0 +1,14 @@
+# Core
+numpy>=1.26
+pandas>=2.1
+
+# Visualization
+matplotlib>=3.8
+seaborn>=0.13
+
+# Notebooks (optional, for exploration)
+jupyter>=1.0
+notebook>=7.0
+
+# Testing
+pytest>=7.4
